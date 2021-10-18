@@ -1,1 +1,2 @@
-<p align="center">Welcome to my Github page.</p><p align="center">- :star2: Java,HTML,CSS,Sass,JavaScript,TypeScript,ReactJS,NextJS</p><p align="center"><img src="https://komarev.com/ghpvc/?username=1sahinomer1"%20 alt="1sahinomer1"/></p>
+<p align="center">I am a 4th year computer engineering student and I am developing myself in the reactjs library.
+Lifelong student constantly striving to be the best.</p><p align="center">- Technologies I am interested in ; <br/> HTML,CSS,Scss,Styled-Components,JavaScript,TypeScript,ReactJS,NextJS</p><p align="center"><img src="https://komarev.com/ghpvc/?username=1sahinomer1"%20 alt="1sahinomer1"/></p>
