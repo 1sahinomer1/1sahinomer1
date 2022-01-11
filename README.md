@@ -7,4 +7,4 @@
 
   
 Lifelong student constantly striving to be the best.</p><p> Technologies I am interested in ; <br/> -HTML,CSS,Scss,Styled-Components,JavaScript,TypeScript,ReactJS,NextJS</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=1sahinomer1" alt="1sahinomer1"/></p>
+<p><img src="https://komarev.com/ghpvc/?username=1sahinomer1" alt="1sahinomer1"/></p>
