@@ -1,4 +1,5 @@
-<p>I am a 4th year computer engineering student and I am developing myself in the reactjs library.<br/>
+<p> I am constantly improving myself in the frontend.Lifelong student constantly striving to be the best.
+<br/>
   
   ##  Medium Articles
 * [ReactJS Skeleton Kullanımı](https://1sahinomer1.medium.com/reactjs-skeleton-kullan%C4%B1m%C4%B1-b30c19e17057)
