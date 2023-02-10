@@ -1,4 +1,4 @@
-<p> I am constantly improving myself in the frontend.Lifelong student constantly striving to be the best.
+<p>
 <br/>
   
   ##  Medium Articles
