@@ -1,4 +1,4 @@
-<p>
+
 <br/>
   
   ##  Medium Articles
@@ -7,5 +7,5 @@
 * [React ve Styled Components ile dark tema oluşturmak](https://1sahinomer1.medium.com/react-ve-styled-components-ile-dark-tema-olu%C5%9Fturmak-b059176be63b)
 
   
-Lifelong student constantly striving to be the best.</p><p> Technologies I am interested in ; <br/> -HTML,CSS,Scss,Styled-Components,JavaScript,TypeScript,ReactJS,NextJS</p>
+<p> Technologies I am interested in ; <br/> -HTML,CSS,Scss,Styled-Components,JavaScript,TypeScript,ReactJS,NextJS</p>
 <p><img src="https://komarev.com/ghpvc/?username=1sahinomer1" alt="1sahinomer1"/></p>
