@@ -7,5 +7,5 @@ omersahin.dev
 * [Code Review Çilesini Biraz Azaltmak Mümkün mü?](https://1sahinomer1.medium.com/code-review-%C3%A7ilesini-biraz-azaltmak-m%C3%BCmk%C3%BCn-m%C3%BC-a8f36e58e362)
 
   
-<p> Technologies I am interested in ; <br/> -HTML,CSS,Scss,Styled-Components,JavaScript,TypeScript,ReactJS,NextJS</p>
+<p> Technologies I am interested in ; <br/> -HTML, CSS, Scss, Styled-Components,TailwindCSS, Material UI, Mantine UI, JavaScript, TypeScript, ReactJS, NextJS</p>
 <p><img src="https://komarev.com/ghpvc/?username=1sahinomer1" alt="1sahinomer1"/></p>
